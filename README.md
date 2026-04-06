@@ -44,6 +44,7 @@ See [SCOPE.md](./SCOPE.md) for the full inclusion/exclusion rules. In short:
 - [10. Specifications](#10-specifications)
 - [11. Wallets & Crypto](#11-wallets--crypto)
 - [12. Skill Security](#12-skill-security)
+- [13. Israel-Specific](#13-israel-specific)
 
 ---
 
@@ -512,6 +513,111 @@ Desktop application that provides security scanning and visual management for Ag
 ![Stars](https://img.shields.io/github/stars/GoPlusSecurity/agentguard?style=social) ![Last commit](https://img.shields.io/github/last-commit/GoPlusSecurity/agentguard)
 
 Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets via 24 detection rules, runtime action evaluation, and a trust registry.
+
+---
+
+## 13. Israel-Specific
+
+Skills and collections focused on Israeli context (government, law, services, localization).
+
+#### [skills-il](https://github.com/skills-il)
+
+![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey)
+
+Organization curating Israel-focused agent skills across multiple domains.
+
+- [tax-and-finance](https://github.com/skills-il/tax-and-finance)
+- [government-services](https://github.com/skills-il/government-services)
+- [localization](https://github.com/skills-il/localization)
+- [developer-tools](https://github.com/skills-il/developer-tools)
+- [accounting](https://github.com/skills-il/accounting)
+- [marketing-growth](https://github.com/skills-il/marketing-growth)
+- [communication](https://github.com/skills-il/communication)
+- [health-services](https://github.com/skills-il/health-services)
+- [security-compliance](https://github.com/skills-il/security-compliance)
+- [food-and-dining](https://github.com/skills-il/food-and-dining)
+- [education](https://github.com/skills-il/education)
+- [legal-tech](https://github.com/skills-il/legal-tech)
+
+---
+
+#### [awesome-agent-skills-israel](https://github.com/alexpolonsky/awesome-agent-skills-israel)
+
+![Stars](https://img.shields.io/github/stars/alexpolonsky/awesome-agent-skills-israel?style=social) ![Last commit](https://img.shields.io/github/last-commit/alexpolonsky/awesome-agent-skills-israel) ![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey)
+
+Curated awesome list of Israel-focused agent skills.
+
+---
+
+#### [israeli-corporate-law-skill](https://github.com/avivshafir/israeli-corporate-law-skill)
+
+![Stars](https://img.shields.io/github/stars/avivshafir/israeli-corporate-law-skill?style=social) ![Last commit](https://img.shields.io/github/last-commit/avivshafir/israeli-corporate-law-skill)
+
+Agent skill for Israeli corporate law.
+
+---
+
+#### [seret-skill](https://github.com/omernesh/seret-skill)
+
+![Stars](https://img.shields.io/github/stars/omernesh/seret-skill?style=social) ![Last commit](https://img.shields.io/github/last-commit/omernesh/seret-skill)
+
+Seret (Israeli movies/cinema) skill.
+
+---
+
+#### [skill-railil](https://github.com/lirantal/skill-railil)
+
+![Stars](https://img.shields.io/github/stars/lirantal/skill-railil?style=social) ![Last commit](https://img.shields.io/github/last-commit/lirantal/skill-railil)
+
+Skill for Israel Railways (Rail.co.il).
+
+---
+
+#### [agent-skill-clalit-pharm-search](https://github.com/tomron/agent-skill-clalit-pharm-search)
+
+![Stars](https://img.shields.io/github/stars/tomron/agent-skill-clalit-pharm-search?style=social) ![Last commit](https://img.shields.io/github/last-commit/tomron/agent-skill-clalit-pharm-search)
+
+Search Clalit pharmacies (Israeli health fund).
+
+---
+
+#### [nadlan-skill](https://github.com/IsraelZablianov/nadlan-skill)
+
+![Stars](https://img.shields.io/github/stars/IsraelZablianov/nadlan-skill?style=social) ![Last commit](https://img.shields.io/github/last-commit/IsraelZablianov/nadlan-skill)
+
+Israeli real estate (nadlan) skill.
+
+---
+
+#### [morning-skill](https://github.com/D1DX/morning-skill)
+
+![Stars](https://img.shields.io/github/stars/D1DX/morning-skill?style=social) ![Last commit](https://img.shields.io/github/last-commit/D1DX/morning-skill)
+
+Morning routine / daily briefing skill.
+
+---
+
+#### [super-pharm-stock-checker](https://github.com/BarMalka/super-pharm-stock-checker)
+
+![Stars](https://img.shields.io/github/stars/BarMalka/super-pharm-stock-checker?style=social) ![Last commit](https://img.shields.io/github/last-commit/BarMalka/super-pharm-stock-checker)
+
+Check Super-Pharm (Israeli pharmacy chain) product stock.
+
+---
+
+#### [agent-skill-maccabi-pharm-search](https://github.com/alexpolonsky/agent-skill-maccabi-pharm-search)
+
+![Stars](https://img.shields.io/github/stars/alexpolonsky/agent-skill-maccabi-pharm-search?style=social) ![Last commit](https://img.shields.io/github/last-commit/alexpolonsky/agent-skill-maccabi-pharm-search)
+
+Search Maccabi pharmacies (Israeli health fund).
+
+---
+
+#### [openclaw-skill-red-alert](https://github.com/shaike1/openclaw-skill-red-alert)
+
+![Stars](https://img.shields.io/github/stars/shaike1/openclaw-skill-red-alert?style=social) ![Last commit](https://img.shields.io/github/last-commit/shaike1/openclaw-skill-red-alert)
+
+OpenClaw skill for Israeli Red Alert (Tzeva Adom) notifications.
 
 ---
 
