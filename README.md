@@ -253,6 +253,14 @@ Ready-to-use Agent Skills for research, science, engineering, analysis, finance,
 
 ### Frontend / Design Taste
 
+#### [astro-dev-skill](https://github.com/gigio1023/astro-dev-skill)
+
+![Stars](https://img.shields.io/github/stars/gigio1023/astro-dev-skill?style=social) ![Last commit](https://img.shields.io/github/last-commit/gigio1023/astro-dev-skill) ![Domain](https://img.shields.io/badge/Domain-Frontend-yellow)
+
+Agent skill for Astro web development — prevents outdated Astro 3/4/5 patterns, covers Tailwind v4, Content Collections v3, MDX, and React islands.
+
+---
+
 #### [taste-skill](https://github.com/Leonxlnx/taste-skill)
 
 ![Stars](https://img.shields.io/github/stars/Leonxlnx/taste-skill?style=social) ![Last commit](https://img.shields.io/github/last-commit/Leonxlnx/taste-skill) ![Domain](https://img.shields.io/badge/Domain-Frontend-yellow)
@@ -313,6 +321,14 @@ Turn any workflow into reusable skills that install on 14+ tools (Claude Code, C
 
 ---
 
+#### [astro-skills](https://github.com/FredKSchott/astro-skills)
+
+![Stars](https://img.shields.io/github/stars/FredKSchott/astro-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/FredKSchott/astro-skills)
+
+Load and serve Agent Skills from your Astro site, automatically.
+
+---
+
 #### [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)
 
 ![Stars](https://img.shields.io/github/stars/CloudAI-X/claude-workflow-v2?style=social) ![Last commit](https://img.shields.io/github/last-commit/CloudAI-X/claude-workflow-v2)
@@ -358,6 +374,14 @@ Supercharge AI coding agents with portable skills — install, translate, and sh
 ![Stars](https://img.shields.io/github/stars/gotalab/skillport?style=social) ![Last commit](https://img.shields.io/github/last-commit/gotalab/skillport)
 
 Bring Agent Skills to any AI or coding agent via CLI or MCP — manage once, serve anywhere.
+
+---
+
+#### [Skill Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)
+
+![Stars](https://img.shields.io/github/stars/yusufkaraaslan/Skill_Seekers?style=social) ![Last commit](https://img.shields.io/github/last-commit/yusufkaraaslan/Skill_Seekers)
+
+Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection.
 
 ---
 
