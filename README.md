@@ -35,6 +35,7 @@ See [SCOPE.md](./SCOPE.md) for the full inclusion/exclusion rules. In short:
   - [Generative Media](#generative-media)
   - [Mobile / Android](#mobile--android)
   - [Social Media](#social-media)
+  - [Business & Startup](#business--startup)
 - [5. Skill Tooling & Builders](#5-skill-tooling--builders)
 - [6. Skill Registries & Hubs](#6-skill-registries--hubs)
 - [7. Frameworks & Orchestration](#7-frameworks--orchestration)
@@ -42,6 +43,7 @@ See [SCOPE.md](./SCOPE.md) for the full inclusion/exclusion rules. In short:
 - [9. Benchmarks](#9-benchmarks)
 - [10. Specifications](#10-specifications)
 - [11. Wallets & Crypto](#11-wallets--crypto)
+- [12. Skill Security](#12-skill-security)
 
 ---
 
@@ -70,6 +72,14 @@ Collection of Apify Agent Skills for web scraping and automation workflows.
 ![Stars](https://img.shields.io/github/stars/cloudflare/skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/cloudflare/skills) ![Type](https://img.shields.io/badge/Type-1st--party-blue)
 
 Skills for teaching agents how to build on Cloudflare.
+
+---
+
+#### [Firebase Agent Skills](https://github.com/firebase/agent-skills)
+
+![Stars](https://img.shields.io/github/stars/firebase/agent-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/firebase/agent-skills) ![Type](https://img.shields.io/badge/Type-1st--party-blue)
+
+Agent Skills for Firebase.
 
 ---
 
@@ -215,6 +225,14 @@ Marketing skills for Claude Code and AI agents — CRO, copywriting, SEO, analyt
 
 ---
 
+#### [seo-geo-claude-skills](https://github.com/aaron-he-zhu/seo-geo-claude-skills)
+
+![Stars](https://img.shields.io/github/stars/aaron-he-zhu/seo-geo-claude-skills?style=social) ![Last commit](https://img.shields.io/github/last-commit/aaron-he-zhu/seo-geo-claude-skills) ![Domain](https://img.shields.io/badge/Domain-SEO-yellow)
+
+20 SEO & GEO skills for Claude Code, Cursor, Codex, and 35+ AI agents — keyword research, content writing, technical audits, rank tracking using CORE-EEAT + CITE frameworks.
+
+---
+
 ### Research & Science
 
 #### [AI-Research-SKILLs](https://github.com/Orchestra-Research/AI-Research-SKILLs)
@@ -273,6 +291,16 @@ AI social-media automation skill with self-evolution workflows.
 
 ---
 
+### Business & Startup
+
+#### [startup-skill](https://github.com/ferdinandobons/startup-skill)
+
+![Stars](https://img.shields.io/github/stars/ferdinandobons/startup-skill?style=social) ![Last commit](https://img.shields.io/github/last-commit/ferdinandobons/startup-skill) ![Domain](https://img.shields.io/badge/Domain-Startup-yellow)
+
+AI agent skills for startup validation, competitive intelligence, and planning — works with Claude Code.
+
+---
+
 ## 5. Skill Tooling & Builders
 
 Loaders, creators, and skills-that-create-skills.
@@ -282,6 +310,14 @@ Loaders, creators, and skills-that-create-skills.
 ![Stars](https://img.shields.io/github/stars/FrancyJGLisboa/agent-skill-creator?style=social) ![Last commit](https://img.shields.io/github/last-commit/FrancyJGLisboa/agent-skill-creator)
 
 Turn any workflow into reusable skills that install on 14+ tools (Claude Code, Copilot, Cursor, Windsurf, Codex, Gemini, Kiro…). One `SKILL.md`, every platform.
+
+---
+
+#### [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)
+
+![Stars](https://img.shields.io/github/stars/CloudAI-X/claude-workflow-v2?style=social) ![Last commit](https://img.shields.io/github/last-commit/CloudAI-X/claude-workflow-v2)
+
+Universal Claude Code workflow plugin bundling agents, skills, hooks, and commands.
 
 ---
 
@@ -309,7 +345,31 @@ Open-source agent skills builder — define skills by vibe workflow, run on Clau
 
 ---
 
+#### [skillkit](https://github.com/rohitg00/skillkit)
+
+![Stars](https://img.shields.io/github/stars/rohitg00/skillkit?style=social) ![Last commit](https://img.shields.io/github/last-commit/rohitg00/skillkit)
+
+Supercharge AI coding agents with portable skills — install, translate, and share skills across Claude Code, Cursor, Codex, Copilot, and 40+ more.
+
+---
+
+#### [skillport](https://github.com/gotalab/skillport)
+
+![Stars](https://img.shields.io/github/stars/gotalab/skillport?style=social) ![Last commit](https://img.shields.io/github/last-commit/gotalab/skillport)
+
+Bring Agent Skills to any AI or coding agent via CLI or MCP — manage once, serve anywhere.
+
+---
+
 ## 6. Skill Registries & Hubs
+
+#### [buildwithclaude](https://github.com/davepoon/buildwithclaude)
+
+![Stars](https://img.shields.io/github/stars/davepoon/buildwithclaude?style=social) ![Last commit](https://img.shields.io/github/last-commit/davepoon/buildwithclaude)
+
+Single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections for Claude Code, Claude Desktop, Agent SDK, and OpenClaw.
+
+---
 
 #### [skillhub](https://github.com/iflytek/skillhub)
 
@@ -322,6 +382,14 @@ Self-hosted, open-source agent skill registry for enterprises — publish & vers
 ## 7. Frameworks & Orchestration
 
 Frameworks where skills are first-class primitives.
+
+#### [oh-my-agent](https://github.com/first-fluke/oh-my-agent)
+
+![Stars](https://img.shields.io/github/stars/first-fluke/oh-my-agent?style=social) ![Last commit](https://img.shields.io/github/last-commit/first-fluke/oh-my-agent)
+
+Portable multi-agent harness for `.agents`-based skills, workflows, and standards-aware agent teams across Antigravity, Claude Code, Codex, OpenCode, and more.
+
+---
 
 #### [openakita](https://github.com/openakita/openakita)
 
@@ -340,6 +408,14 @@ Skill persistence, reuse, and context infrastructure.
 ![Stars](https://img.shields.io/github/stars/memodb-io/Acontext?style=social) ![Last commit](https://img.shields.io/github/last-commit/memodb-io/Acontext)
 
 Agent Skills as a memory layer.
+
+---
+
+#### [AgentHandover](https://github.com/sandroandric/AgentHandover)
+
+![Stars](https://img.shields.io/github/stars/sandroandric/AgentHandover?style=social) ![Last commit](https://img.shields.io/github/last-commit/sandroandric/AgentHandover)
+
+Observes the user, learns their workflows, and teaches agents (OpenClaw, Claude Code, Codex…) via self-improving skills.
 
 ---
 
@@ -394,6 +470,24 @@ Coinbase agentic wallet skills (`npx skills add coinbase/agentic-wallet-skills`)
 ![Stars](https://img.shields.io/github/stars/binance/binance-skills-hub?style=social) ![Last commit](https://img.shields.io/github/last-commit/binance/binance-skills-hub) ![Type](https://img.shields.io/badge/Type-1st--party-blue)
 
 Open skills marketplace giving AI agents native access to crypto.
+
+---
+
+## 12. Skill Security
+
+#### [agent-skills-guard](https://github.com/bruc3van/agent-skills-guard)
+
+![Stars](https://img.shields.io/github/stars/bruc3van/agent-skills-guard?style=social) ![Last commit](https://img.shields.io/github/last-commit/bruc3van/agent-skills-guard)
+
+Desktop application that provides security scanning and visual management for Agent Skills.
+
+---
+
+#### [agentguard](https://github.com/GoPlusSecurity/agentguard)
+
+![Stars](https://img.shields.io/github/stars/GoPlusSecurity/agentguard?style=social) ![Last commit](https://img.shields.io/github/last-commit/GoPlusSecurity/agentguard)
+
+Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets via 24 detection rules, runtime action evaluation, and a trust registry.
 
 ---
 
