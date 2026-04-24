@@ -404,6 +404,14 @@ Self-hosted, open-source agent skill registry for enterprises — publish & vers
 
 ---
 
+#### [Skills宝 (skilery.com)](https://skilery.com)
+
+![Type](https://img.shields.io/badge/Type-3rd--party-lightgrey)
+
+Chinese AI Skills marketplace for one-stop search and install across Claude Code, OpenCode, and more platforms.
+
+---
+
 ## 7. Frameworks & Orchestration
 
 Frameworks where skills are first-class primitives.
