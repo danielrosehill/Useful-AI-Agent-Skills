@@ -624,6 +624,7 @@ OpenClaw skill for Israeli Red Alert (Tzeva Adom) notifications.
 ## Related Resource Lists
 
 - [Local-AI-Agent-Resources](https://github.com/danielrosehill/Local-AI-Agent-Resources) — on-device agent runners, harnesses, and tooling.
+- [ai-skill](https://github.com/anomalyco/ai-skill) — AI skill discovery and management system.
 
 ## Contributing
 
