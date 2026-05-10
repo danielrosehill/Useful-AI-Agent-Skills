@@ -35,6 +35,7 @@ See [SCOPE.md](./SCOPE.md) for the full inclusion/exclusion rules. In short:
   - [Generative Media](#generative-media)
   - [Mobile / Android](#mobile--android)
   - [Social Media](#social-media)
+  - [Engineering Operations](#engineering-operations)
   - [Business & Startup](#business--startup)
 - [5. Skill Tooling & Builders](#5-skill-tooling--builders)
 - [6. Skill Registries & Hubs](#6-skill-registries--hubs)
@@ -297,6 +298,16 @@ Standardized Agent Skills that teach Copilot, Claude, Gemini, and Cursor modern 
 ![Stars](https://img.shields.io/github/stars/jihe520/social-push?style=social) ![Last commit](https://img.shields.io/github/last-commit/jihe520/social-push) ![Domain](https://img.shields.io/badge/Domain-Social-yellow)
 
 AI social-media automation skill with self-evolution workflows.
+
+---
+
+### Engineering Operations
+
+#### [agenttrace](https://github.com/luoyuctl/agenttrace)
+
+![Stars](https://img.shields.io/github/stars/luoyuctl/agenttrace?style=social) ![Last commit](https://img.shields.io/github/last-commit/luoyuctl/agenttrace) ![Domain](https://img.shields.io/badge/Domain-Engineering-yellow)
+
+Agent skill and local CLI/TUI for auditing AI coding-agent sessions — inspects tokens, costs, tool calls, run history, anomalies, Markdown/JSON reports, and CI health gates.
 
 ---
 
